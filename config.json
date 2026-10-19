@@ -1,0 +1,37 @@
+{  
+  "coloredImage": true,
+  "removeBackground": false,
+  "imageScale": 1,
+  "imageOffsetX": 0,
+  "imageOffsetY": 0,
+  "sections": [
+    {
+      "title": "{{username}}",
+      "fields": [
+        { "key": "Name", "value": "{{name}}" },
+        { "key": "Location", "value": "{{location}}" },
+        { "key": "Created", "value": "{{created}}" },
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Languages", "value": "Java, Python" },
+        { "key": "IDE", "value": "VSCode, IntelliJ IDEA" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Hobbies.Software", "value": "Game Dev" },
+        { "key": "Hobbies.Hardware", "value": "Console Modding" }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        { "key": "Twitter", "value": "@MiaowzV" },
+	{ "key": "YouTube": "value": "Miaowz" },
+	{ "key": "Instagram": "value": "@MiaowzVT" }
+      ]
+    }
+  ]
+}
