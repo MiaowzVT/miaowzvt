@@ -1,4 +1,4 @@
-![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=MiaowzVT)
+![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=MiaowzVT&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2FMiaowzVT%2Fmiaowzvt%2Frefs%2Fheads%2Fmain%2Fconfig.json)
 
 <h1 align="center">Hi 👋, I'm Miaowz</h1>
 <h3 align="center">Applied Computer Science Student | VTuber</h3>
