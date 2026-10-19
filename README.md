@@ -1,3 +1,5 @@
+![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=MiaowzVT)
+
 <h1 align="center">Hi 👋, I'm Miaowz</h1>
 <h3 align="center">Applied Computer Science Student | VTuber</h3>
 
