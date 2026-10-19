@@ -1,12 +1,3 @@
-<p align="center">
-  <a href="https://github.com/MiaowzVT">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=MiaowzVT&theme=github-dark&config=https://raw.githubusercontent.com/MiaowzVT/miaowzvt/refs/heads/main/config.json">
-      <img alt="Neofetch Profile" src="https://neofetch-profile.vercel.app/api?username=MiaowzVT&theme=github-light&config=https://raw.githubusercontent.com/MiaowzVT/miaowzvt/refs/heads/main/config.json">
-    </picture>
-  </a>
-</p>
-
 <h1 align="center">Hi 👋, I'm Miaowz</h1>
 <h3 align="center">Applied Computer Science Student | VTuber</h3>
 
